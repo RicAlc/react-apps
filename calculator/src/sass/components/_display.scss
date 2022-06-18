@@ -1,0 +1,15 @@
+.input {
+  flex: 1 1;
+  margin-block: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 80px;
+  border-radius: 3px;
+  background-color: var(--Display);
+  color: var(--Display-text);
+  font-family: var(--Orbitron);
+  font-size: 2.5rem;
+  font-weight: 600;
+  padding-inline: 10px;
+}
