@@ -11,4 +11,3 @@
 
 ## Screenshots 
 ![Airbnb screenshot gif](./screenshots/calculator.gif)
-¿
